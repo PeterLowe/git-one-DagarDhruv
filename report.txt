@@ -1,0 +1,24 @@
+Git 
+1)init
+Create a new repository in the file 
+  
+A new folder is created with .git 
+ 2)status
+It shows which files have been commited or uploaded to repository.
+Red means they are not uploaded. They need to be uploaded 
+Green means they have been uploaded.
+
+ 
+
+3)add 
+Add command is used to add or upload the file to the repository which is currently stored on the local system.
+
+ 
+
+4)
+
+
+
+
+
+
