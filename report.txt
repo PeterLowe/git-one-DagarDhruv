@@ -15,7 +15,9 @@ Add command is used to add or upload the file to the repository which is current
 
  
 
-4)
+4)commit 
+Commit helps to add a time stamp which tells what are the changes made to the file with securing the previous one.
+
 
 
 
