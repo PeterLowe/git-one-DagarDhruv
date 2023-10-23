@@ -29,6 +29,9 @@ It gives us the log of the commit history. The command is git log.
 
 8)clone
 It clones or save a copy of a repository to a local computer from the server.
+9) rm
+It removes the file from the repository. The command is git rm <file name>
+
 
 
 
