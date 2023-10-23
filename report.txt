@@ -27,6 +27,9 @@ It creates a new  repository remotely.the command for this is git add remote <na
 7)log
 It gives us the log of the commit history. The command is git log.
 
+8)clone
+It clones or save a copy of a repository to a local computer from the server.
+
 
 
 
