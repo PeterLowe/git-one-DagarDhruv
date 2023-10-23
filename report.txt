@@ -24,6 +24,9 @@ Push command is generally made after the commit because this is the command whic
 6)remote
 It creates a new  repository remotely.the command for this is git add remote <name >  <url> 
 
+7)log
+It gives us the log of the commit history. The command is git log.
+
 
 
 
