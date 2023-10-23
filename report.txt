@@ -21,6 +21,9 @@ Commit helps to add a time stamp which tells what are the changes made to the fi
 5)push
 Push command is generally made after the commit because this is the command which is responsible for uploading the file to the git.which is generally followed by the branch name.
 
+6)remote
+It creates a new  repository remotely.the command for this is git add remote <name >  <url> 
+
 
 
 
